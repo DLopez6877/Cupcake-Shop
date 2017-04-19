@@ -1,3 +1,32 @@
 body {
   background-color: pink;
+  text-align: center;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+}
+
+h1 {
+  text-shadow: -2.5px 5px white;
+  font-size: 50px;
+  color: #2e2eee;
+}
+
+p.important {
+  font-family: fantasy;
+
+}
+
+.birthdake {
+  font-weight: bold;
+  color: orange;
+  font-family: serif;
+  background-color: grey;
+}
+
+h2 {
+  font-family: cursive;
+  color: #e31111;
 }
